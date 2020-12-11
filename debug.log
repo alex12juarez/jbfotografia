@@ -1,0 +1,8 @@
+[1205/133550.585:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1205/134936.000:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1205/191733.476:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1205/230058.423:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/230058.423:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/230058.424:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/230247.865:ERROR:process_info.cc(359)] UncheckedAllocate
+[1205/230247.942:ERROR:process_info.cc(359)] UncheckedAllocate
